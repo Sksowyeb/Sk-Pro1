@@ -2,7 +2,7 @@
 
 from os import path
 import os,base64,zlib,pip,urllib
-os.system('xdg-open https://facebook.com/groups/351076900316263/')
+os.system('xdg-open https://www.facebook.com/sksuyaif.hassan?mibextid=ZbWKwL/')
 print('\n\033[1;37m install modules...\n It will take some seconds...')
 
 try:
@@ -57,9 +57,9 @@ db   8D 88b  d88    88    88   88   .88.   88
  Github    : SUYAIF-404
  Facebook  : SK SUYAIF HASSAN
  Type type : FREE
- Version   : 0.0.1
+ Version   : 0.0.2
 ----------------------------------------------
- 𝐒𝐔𝐘𝐀𝐈𝐅 Pro version 0.0.1
+ 𝐒𝐔𝐘𝐀𝐈𝐅 Pro version 0.0.2
  For Haters: Tumhare Okat Nhi Mere BAAJI chodne Ke 🤞
 \033[1;37m----------------------------------------------""")
 def linex():
